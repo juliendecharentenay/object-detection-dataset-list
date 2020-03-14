@@ -9,6 +9,7 @@ The object detection algorithm is based on training a neural network on a collec
 * License plate reader:
   * Tutorial: https://towardsdatascience.com/i-built-a-diy-license-plate-reader-with-a-raspberry-pi-and-machine-learning-7e428d3c7401
   * Dataset: https://github.com/RobertLucian/license-plate-dataset
+  * Comments: The image names are using '#' and '=' characters. The images, with a suffix 'jpg', are actually 'png' files.
 * Udacity Self Driving Car Dataset:
   * Original: https://github.com/udacity/self-driving-car/tree/master/annotations
   * Roboflow corrected: https://public.roboflow.ai/object-detection/self-driving-car
